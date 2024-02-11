@@ -1,1 +1,1 @@
-print("Ola mundo segunda versao")
+print("Ola mundo")
